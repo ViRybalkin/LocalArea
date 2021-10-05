@@ -1,3 +1,7 @@
 node_modules
 .prettierrc
 .eslintcache
+modules.xml
+Project_Default.xml
+vcs.xml
+LocalArea.iml
